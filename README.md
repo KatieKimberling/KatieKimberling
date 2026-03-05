@@ -79,4 +79,3 @@ Just before that, the University of Oklahoma gave me a budget and 1,300 square f
 <div align="right">
   <i>Last updated: 2026</i>
 </div>
->>>>>>> 659f768 (Initial profile setup)
